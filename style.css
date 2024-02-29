@@ -1,0 +1,139 @@
+@font-face {
+    font-family:"letraCliente";
+    src: url(font/Breaking\ Bad.ttf); 
+}
+
+.principal {
+    text-align: center;
+    background-image:url("img/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: letraCliente;
+
+    
+}
+
+.formulario{
+    text-align: center;
+    background-image:url("img/fondo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Helvetica;
+}
+
+.log{
+    color: white;
+    font-size: 35px;
+}
+
+img.post{
+    width: 700px;
+    height: 300px;
+    border: 10px outset brown;
+    border-radius: 22px;
+}
+
+img.log{
+    width: 200px;
+    height: 200px;
+
+}
+
+.tab {
+    text-align: center;
+    background-color: #0c3e11;
+    font-family: Helvetica;
+}
+
+.periodica {
+    margin: auto; 
+    border-collapse: collapse; 
+    background-color: #0c3e11;
+    color: black; 
+    
+    
+   
+}
+
+.textoPeque {
+    font-size: 10px;
+    font-family: Helvetica;
+}
+
+.textoGrande {
+    font-size: 14px;
+    font-family: Helvetica;
+}
+
+.periodica td>div {
+    text-align: center;
+    top: 0;
+   
+}
+.hank{
+   width: 100%;
+   height: 100%; 
+   object-fit: cover;
+   
+}
+
+.periodica td {
+    font-weight: bold;
+    border: 7px solid black; 
+    position: relative;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+   
+    font-family: Helvetica;
+}
+
+.table {
+    margin: auto; 
+    border-collapse: collapse; 
+    background-color: #0c3e11;
+    color: black; 
+    font-family: Helvetica;
+}
+
+.table td {
+    font-weight: bold;
+    border: 7px solid black; 
+    position: relative;
+    width: 75px;
+    height: 75px;
+    text-align: center;
+    background-color: #C3C629;
+}
+
+.verde1{
+    background-color: #B8DB1D;
+}
+.negro{
+    background-color: black;
+}
+
+.verdeclaro{
+    background-color: #D4EA75;
+}
+.verdeblanco{
+    background-color: #EFF6C9;
+}
+.gris{
+    background-color: #BBC49E;
+}
+.olivaclaro{
+    background-color: #C5E440;
+}
+.verdeoscuro{
+    background-color: #616F25;
+}
+.morado{
+    background-color: #AB8ECD;
+}
+.olivamedio{
+    background-color: #89A41A;
+}
+.oliva{
+    background-color: #7D8A4C;
+}
